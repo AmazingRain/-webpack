@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7865396",
+      "name": "饼干",
+      "font_class": "food-cookie",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7865397",
+      "name": "碧根果",
+      "font_class": "food-pecan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7865398",
+      "name": "牛油果",
+      "font_class": "food-avocado",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7865399",
+      "name": "布丁",
+      "font_class": "food-pudding",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

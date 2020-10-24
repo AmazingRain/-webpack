@@ -1,0 +1,22 @@
+html,
+body {
+  background-image: url(../imgs/1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  color: #f40;
+}
+
+img {
+  width: 300px;
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}

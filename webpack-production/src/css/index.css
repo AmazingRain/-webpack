@@ -1,0 +1,23 @@
+h2 {
+  color: #f40;
+}
+
+img {
+  width: 300px;
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+
+div {
+  display: flex;
+  backface-visibility: hidden;
+  transform: rotate(-45deg);
+  display: -webkit-box;
+}
